@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gali likitha\\source\\repos\\FavSave\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6491486F-94BA-4B2B-9D52-3D4D58222B4A}|FavSave\\FavSave.csproj|c:\\users\\gali likitha\\source\\repos\\favsave\\favsave\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6491486F-94BA-4B2B-9D52-3D4D58222B4A}|FavSave\\FavSave.csproj|solutionrelative:favsave\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6491486F-94BA-4B2B-9D52-3D4D58222B4A}|FavSave\\FavSave.csproj|c:\\users\\gali likitha\\source\\repos\\favsave\\favsave\\components\\pages\\compare.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6491486F-94BA-4B2B-9D52-3D4D58222B4A}|FavSave\\FavSave.csproj|solutionrelative:favsave\\components\\pages\\compare.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6491486F-94BA-4B2B-9D52-3D4D58222B4A}|FavSave\\FavSave.csproj|c:\\users\\gali likitha\\source\\repos\\favsave\\favsave\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6491486F-94BA-4B2B-9D52-3D4D58222B4A}|FavSave\\FavSave.csproj|solutionrelative:favsave\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6491486F-94BA-4B2B-9D52-3D4D58222B4A}|FavSave\\FavSave.csproj|c:\\users\\gali likitha\\source\\repos\\favsave\\favsave\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6491486F-94BA-4B2B-9D52-3D4D58222B4A}|FavSave\\FavSave.csproj|solutionrelative:favsave\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6491486F-94BA-4B2B-9D52-3D4D58222B4A}|FavSave\\FavSave.csproj|c:\\users\\gali likitha\\source\\repos\\favsave\\favsave\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6491486F-94BA-4B2B-9D52-3D4D58222B4A}|FavSave\\FavSave.csproj|solutionrelative:favsave\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6491486F-94BA-4B2B-9D52-3D4D58222B4A}|FavSave\\FavSave.csproj|c:\\users\\gali likitha\\source\\repos\\favsave\\favsave\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6491486F-94BA-4B2B-9D52-3D4D58222B4A}|FavSave\\FavSave.csproj|solutionrelative:favsave\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6491486F-94BA-4B2B-9D52-3D4D58222B4A}|FavSave\\FavSave.csproj|c:\\users\\gali likitha\\source\\repos\\favsave\\favsave\\components\\pages\\favorite.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6491486F-94BA-4B2B-9D52-3D4D58222B4A}|FavSave\\FavSave.csproj|solutionrelative:favsave\\components\\pages\\favorite.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6491486F-94BA-4B2B-9D52-3D4D58222B4A}|FavSave\\FavSave.csproj|c:\\users\\gali likitha\\source\\repos\\favsave\\favsave\\services\\favoritecityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6491486F-94BA-4B2B-9D52-3D4D58222B4A}|FavSave\\FavSave.csproj|solutionrelative:favsave\\services\\favoritecityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6491486F-94BA-4B2B-9D52-3D4D58222B4A}|FavSave\\FavSave.csproj|c:\\users\\gali likitha\\source\\repos\\favsave\\favsave\\models\\weatherforcastingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6491486F-94BA-4B2B-9D52-3D4D58222B4A}|FavSave\\FavSave.csproj|solutionrelative:favsave\\models\\weatherforcastingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6491486F-94BA-4B2B-9D52-3D4D58222B4A}|FavSave\\FavSave.csproj|c:\\users\\gali likitha\\source\\repos\\favsave\\favsave\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6491486F-94BA-4B2B-9D52-3D4D58222B4A}|FavSave\\FavSave.csproj|solutionrelative:favsave\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\gali likitha\\source\\repos\\FavSave\\FavSave\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "FavSave\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\gali likitha\\source\\repos\\FavSave\\FavSave\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "FavSave\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T03:49:13.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Compare.razor",
+              "DocumentMoniker": "C:\\Users\\gali likitha\\source\\repos\\FavSave\\FavSave\\Components\\Pages\\Compare.razor",
+              "RelativeDocumentMoniker": "FavSave\\Components\\Pages\\Compare.razor",
+              "ToolTip": "C:\\Users\\gali likitha\\source\\repos\\FavSave\\FavSave\\Components\\Pages\\Compare.razor",
+              "RelativeToolTip": "FavSave\\Components\\Pages\\Compare.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T03:46:36.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\gali likitha\\source\\repos\\FavSave\\FavSave\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "FavSave\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\gali likitha\\source\\repos\\FavSave\\FavSave\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "FavSave\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T06:58:23.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gali likitha\\source\\repos\\FavSave\\FavSave\\Program.cs",
+              "RelativeDocumentMoniker": "FavSave\\Program.cs",
+              "ToolTip": "C:\\Users\\gali likitha\\source\\repos\\FavSave\\FavSave\\Program.cs",
+              "RelativeToolTip": "FavSave\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T15:07:53.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FavoriteCityService.cs",
+              "DocumentMoniker": "C:\\Users\\gali likitha\\source\\repos\\FavSave\\FavSave\\Services\\FavoriteCityService.cs",
+              "RelativeDocumentMoniker": "FavSave\\Services\\FavoriteCityService.cs",
+              "ToolTip": "C:\\Users\\gali likitha\\source\\repos\\FavSave\\FavSave\\Services\\FavoriteCityService.cs",
+              "RelativeToolTip": "FavSave\\Services\\FavoriteCityService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:58:19.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\gali likitha\\source\\repos\\FavSave\\FavSave\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "FavSave\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\gali likitha\\source\\repos\\FavSave\\FavSave\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "FavSave\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T15:16:36.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Favorite.razor",
+              "DocumentMoniker": "C:\\Users\\gali likitha\\source\\repos\\FavSave\\FavSave\\Components\\Pages\\Favorite.razor",
+              "RelativeDocumentMoniker": "FavSave\\Components\\Pages\\Favorite.razor",
+              "ToolTip": "C:\\Users\\gali likitha\\source\\repos\\FavSave\\FavSave\\Components\\Pages\\Favorite.razor",
+              "RelativeToolTip": "FavSave\\Components\\Pages\\Favorite.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T06:58:22.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\gali likitha\\source\\repos\\FavSave\\FavSave\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "FavSave\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\gali likitha\\source\\repos\\FavSave\\FavSave\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "FavSave\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T15:20:26.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\gali likitha\\source\\repos\\FavSave\\FavSave\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "FavSave\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\gali likitha\\source\\repos\\FavSave\\FavSave\\Components\\Routes.razor",
+              "RelativeToolTip": "FavSave\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T15:21:37.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherforcastingModel.cs",
+              "DocumentMoniker": "C:\\Users\\gali likitha\\source\\repos\\FavSave\\FavSave\\Models\\WeatherforcastingModel.cs",
+              "RelativeDocumentMoniker": "FavSave\\Models\\WeatherforcastingModel.cs",
+              "ToolTip": "C:\\Users\\gali likitha\\source\\repos\\FavSave\\FavSave\\Models\\WeatherforcastingModel.cs",
+              "RelativeToolTip": "FavSave\\Models\\WeatherforcastingModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:58:17.907Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

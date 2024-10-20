@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\gali likitha\\source\\repos\\FavSave\\FavSave\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FavSave.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FavSave.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\gali likitha\\source\\repos\\FavSave\\FavSave\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\gali likitha\\source\\repos\\FavSave\\FavSave\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gali likitha\\source\\repos\\FavSave\\FavSave\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gali likitha\\source\\repos\\FavSave\\FavSave\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FavSave.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FavSave.props",
+      "PackagePath": "build\\FavSave.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FavSave.props",
+      "PackagePath": "buildMultiTargeting\\FavSave.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FavSave.props",
+      "PackagePath": "buildTransitive\\FavSave.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
