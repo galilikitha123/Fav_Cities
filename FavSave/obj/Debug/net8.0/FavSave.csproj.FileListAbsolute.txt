@@ -30,3 +30,4 @@ C:\Users\gali likitha\source\repos\FavSave\FavSave\obj\Debug\net8.0\ref\FavSave.
 C:\Users\gali likitha\source\repos\FavSave\FavSave\bin\Debug\net8.0\Blazored.LocalStorage.dll
 C:\Users\gali likitha\source\repos\FavSave\FavSave\obj\Debug\net8.0\FavSave.csproj.AssemblyReference.cache
 C:\Users\gali likitha\source\repos\FavSave\FavSave\obj\Debug\net8.0\FavSave.csproj.Up2Date
+C:\Users\gali likitha\source\repos\FavSave\FavSave\obj\Debug\net8.0\FavSave.sourcelink.json
